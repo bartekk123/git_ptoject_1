@@ -2,3 +2,5 @@ print('jiijiji')
 print('master jest git')
 print('development jest git')
 print('development bla bla')
+
+print('ta linijka powinna sie zmergowac bez konfliktu')
